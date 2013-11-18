@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -174,3 +175,6 @@ Enjoy!
 hahahihi
 ========
 >>>>>>> 8350b7674ea60cbf3c3641d9f336da852778690e
+=======
+This is actually working haha
+>>>>>>> 5d7bb7d7cbe7117f8895d0d072a73c2d93c373f0
